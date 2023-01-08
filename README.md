@@ -5,8 +5,8 @@ This is a CLI app that will let you find public screenshots.
 
 # Windows and MacOS:
 python main.py -a <amount of screenshots>
-use -o to auto open
+Note: use -o to auto open
 
 # Linux:
 python3 main.py -a <amount of screenshots>
-use -o to auto open
+Note: use -o to auto open
